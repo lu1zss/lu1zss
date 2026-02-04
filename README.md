@@ -9,8 +9,8 @@
 Sou graduando em Ciência da Computação pela Universidade Federal do Tocantins (Campus Palmas).  
 Tenho direcionado minha formação para o desenvolvimento full stack, explorando tecnologias como **Node.js**, **PHP** e **Python**, sempre com foco em aprendizado prático e na construção de soluções reais.
 
-I am an undergraduate student in Computer Science at the Federal University of Tocantins (Palmas campus).
-I have been directing my studies toward full-stack development, exploring technologies such as Node.js, PHP, and Python, always focusing on hands-on learning and building real-world solutions.
+I am an undergraduate student in Computer Science at the Federal University of Tocantins (Palmas campus). <br>
+I have been directing my studies toward full-stack development, exploring technologies such as **Node.js**, **PHP**, and **Python**, always focusing on hands-on learning and building real-world solutions.
 
 ---
 
