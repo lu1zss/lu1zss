@@ -1,8 +1,8 @@
 ## Iae, eu sou o Luís
 
 [![Telegram Badge](https://img.shields.io/badge/-@lu1pinho-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lu1pinho "Fale comigo pelo Telegram :3")
-[![LinkedIn Badge](https://img.shields.io/badge/-lu1ss-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lu1ss/)
-[![GitHub Followers](https://img.shields.io/github/followers/lu1pinho?label=follow&style=social)](https://github.com/lu1pinho)
+[![LinkedIn Badge](https://img.shields.io/badge/-lu1zss-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lu1zss/)
+[![GitHub Followers](https://img.shields.io/github/followers/lu1zss?label=follow&style=social)](https://github.com/lu1zss)
 
 ---
 
@@ -49,7 +49,7 @@ Organização onde publico meus experimentos e pequenos projetos pessoais, um es
 
 ### 📫 Contato
 
-**LinkedIn:** [www.linkedin.com/in/lu1szz/](https://www.linkedin.com/in/lu1szz/)  
+**LinkedIn:** [www.linkedin.com/in/lu1zss/](https://www.linkedin.com/in/lu1zss/)  
 **E-mail:** [oluisgustavoalves@gmail.com](mailto:oluisgustavoalves@gmail.com)
 
 
