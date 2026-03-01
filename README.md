@@ -43,13 +43,6 @@ I have been directing my studies toward full-stack development, exploring techno
 
 ---
 
-### My Dev Playground
-
-An organization where I publish experiments and small personal projects — a space to test ideas, learn, and build things.
-**https://github.com/mydevplayground**
-
----
-
 ### 📫 Contato / Contact 
 
 **LinkedIn:** [www.linkedin.com/in/lu1zss/](https://www.linkedin.com/in/lu1zss/)  
