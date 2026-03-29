@@ -1,4 +1,4 @@
-## Iae, eu sou o Luís
+## Hi, I'm Luís 👋
 
 [![Instagram Badge](https://img.shields.io/badge/-lu1zss_-black?style=flat&logo=Instagram&logoColor=white)](https://t.me/lu1pinho "Fale comigo pelo Telegram :3")
 [![LinkedIn Badge](https://img.shields.io/badge/-lu1zss-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lu1zss/)
