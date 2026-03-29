@@ -4,19 +4,15 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-lu1zss-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lu1zss/)
 [![GitHub Followers](https://img.shields.io/github/followers/lu1zss?label=follow&style=social)](https://github.com/lu1zss)
 
----
+I am a Computer Science undergraduate at the **Federal University of Tocantins (UFT)**, based in Palmas, Brazil.  
 
-Sou graduando em Ciência da Computação pela Universidade Federal do Tocantins (Campus Palmas).  
-Tenho direcionado minha formação para o desenvolvimento full stack, explorando tecnologias como **Node.js**, **PHP** e **Python**, sempre com foco em aprendizado prático e na construção de soluções reais.
-
-I am an undergraduate student in Computer Science at the Federal University of Tocantins (Palmas campus). <br>
-I have been directing my studies toward full-stack development, exploring technologies such as **Node.js**, **PHP**, and **Python**, always focusing on hands-on learning and building real-world solutions.
+My studies are focused on **full-stack web development**, working mainly with **Node.js, PHP, and Python**, with a strong interest in building practical projects and real-world solutions.
 
 ---
 
-### Principais habilidades técnicas / Technical Skills
+### Technical Skills
 
-`JavaScript` · `Node.js` · `Express` · `PHP` · `Laravel` · `Python` · `APIs REST`  
+`JavaScript` · `Node.js` · `Express` · `PHP` · `Laravel` · `Python` · `REST APIs`  
 `Tailwind CSS` · `UX/UI` · `Figma` · `MySQL` · `PostgreSQL` · `Git` · `GitHub` · `Scrum`
 
 <br>
@@ -43,9 +39,17 @@ I have been directing my studies toward full-stack development, exploring techno
 
 ---
 
-### 📫 Contato / Contact 
+### Current Project
 
-**LinkedIn:** [www.linkedin.com/in/lu1zss/](https://www.linkedin.com/in/lu1zss/)  
-**E-mail:** [oluisgustavoalves@gmail.com](mailto:oluisgustavoalves@gmail.com)
+Currently contributing to the development of the official website for **Labtec (Laboratory of Computational Technologies)** at the **Federal University of Tocantins (UFT)**.
 
+This institutional project focuses on building and maintaining a modern web platform to showcase the laboratory’s projects, research initiatives, and activities.
 
+🔗 Repository: https://github.com/Labtec-UFT/labtec-website
+
+---
+
+### Contact
+
+**LinkedIn:** https://www.linkedin.com/in/lu1zss/  
+**Email:** oluisgustavoalves@gmail.com
