@@ -1,6 +1,6 @@
 ## Iae, eu sou o Luís
 
-[![Telegram Badge](https://img.shields.io/badge/-@lu1pinho-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lu1pinho "Fale comigo pelo Telegram :3")
+[![Instagram Badge](https://img.shields.io/badge/-lu1zss_-black?style=flat&logo=Instagram&logoColor=white)](https://t.me/lu1pinho "Fale comigo pelo Telegram :3")
 [![LinkedIn Badge](https://img.shields.io/badge/-lu1zss-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lu1zss/)
 [![GitHub Followers](https://img.shields.io/github/followers/lu1zss?label=follow&style=social)](https://github.com/lu1zss)
 
