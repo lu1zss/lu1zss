@@ -6,29 +6,27 @@
 
 I am a Computer Science undergraduate at the **Federal University of Tocantins (UFT)**, based in Palmas, Brazil.  
 
-My studies are focused on **full-stack web development**, working mainly with **Node.js, PHP, and Python**, with a strong interest in building practical projects and real-world solutions.
+My studies are focused on **full-stack web development**, working mainly with **Node.js and Python**, with a strong interest in building practical projects and real-world solutions.
 
 ---
 
 ### Technical Skills
 
-`JavaScript` · `Node.js` · `Express` · `PHP` · `Laravel` · `Python` · `REST APIs`  
-`Tailwind CSS` · `UX/UI` · `Figma` · `MySQL` · `PostgreSQL` · `Git` · `GitHub` · `Scrum`
+`JavaScript` · `Node.js` · `Express` · `Python` · `Django` · `REST APIs`  
+`React` · `Tailwind CSS` · `UX/UI` · `Figma` · `PostgreSQL` · `Git` · `GitHub` · `Scrum` · `KanBan`
 
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
   <img width="12" />
